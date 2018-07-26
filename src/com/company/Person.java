@@ -4,5 +4,6 @@ public class Person {
     public void Say(){
         System.out.println("Init");
         System.out.println("Master");
+        System.out.println("Master2");
     }
 }
