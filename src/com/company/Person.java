@@ -5,5 +5,6 @@ public class Person {
         System.out.println("Init");
         System.out.println("Branch3");
         System.out.println("Branch3");
+        System.out.println("Branch3");
     }
 }
