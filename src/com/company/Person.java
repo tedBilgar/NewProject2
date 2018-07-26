@@ -5,5 +5,7 @@ public class Person {
         System.out.println("Init");
         int h;
         int u;
+        int c;
+        int d;
     }
 }
