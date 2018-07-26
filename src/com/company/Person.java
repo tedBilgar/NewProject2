@@ -5,5 +5,6 @@ public class Person {
         System.out.println("Init");
         System.out.println("Master");
         System.out.println("Master2");
+        System.out.println("Master3");
     }
 }
