@@ -7,5 +7,8 @@ public class Person {
         System.out.println("Master2");
         System.out.println("Master3");
         System.out.println("Master3");
+        System.out.println("Branch3");
+        System.out.println("Branch3");
+        System.out.println("Branch3");
     }
 }
